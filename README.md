@@ -1,4 +1,4 @@
-# gender-data
+# gender-data [![goodtables.io](https://goodtables.io/badge/github/amitness/gender-data.svg)](https://goodtables.io/github/amitness/gender-data)
 A standard data set containing gender of first names used in Nepal.
 
 
